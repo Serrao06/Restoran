@@ -109,6 +109,7 @@
                             <div class="rounded-circle overflow-hidden m-4">
                                 <img class="img-fluid" src="img/team-3.jpg" alt="">
                             </div>
+                            <!-- this is succesfully done -->
                             <h5 class="mb-0">Helena Rizzo</h5>
                             <small>Sous Chef</small>
                             <div class="d-flex justify-content-center mt-3">
