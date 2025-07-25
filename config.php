@@ -1,7 +1,7 @@
 <?php
-    $server = "localhost";
-    $user = "root";
-    $password = "";
+    $server = "host name";
+    $user = "user name";
+    $password = "your password";
     $dbName = "restoran";
 
     $dsn = "mysql:host=$server;dbname=$dbName;charset=UTF8";
